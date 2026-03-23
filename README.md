@@ -7,11 +7,11 @@ Flowstate AI is a productivity analytics platform that helps students understand
 ---
 
 ## 🚀 Features
-- 📊 Upload and analyze study data (CSV support)
-- 📈 Visualize productivity trends over time
-- 🧠 Generate actionable insights from study habits
-- 🔮 Predict performance and burnout risk
-- 🤖 AI-powered explanations and recommendations
+📊 Upload and analyze study data (CSV support)
+📈 Visualize productivity trends over time
+🧠 Generate actionable insights from study habits
+🔮 Predict performance and burnout risk
+🤖 AI-powered explanations and recommendations
 
 ---
 
